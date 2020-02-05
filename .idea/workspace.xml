@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a4ab8e3-172a-44ae-9506-cde582ab41d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/twu/biblioteca/MenuApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/twu/biblioteca/BibliotecaAppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/twu/biblioteca/MenuOptionsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/biblioteca/com/twu/biblioteca/BibliotecaApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/biblioteca/com/twu/biblioteca/BibliotecaApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/biblioteca/com/twu/biblioteca/MenuApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/biblioteca/com/twu/biblioteca/MenuApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/twu/biblioteca/BibliotecaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/twu/biblioteca/BibliotecaApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/twu/biblioteca/MenuApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/twu/biblioteca/MenuApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="JUnit.All in biblioteca">
+  <component name="RunManager" selected="Application.BibliotecaApp">
     <configuration name="BibliotecaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.twu.biblioteca.BibliotecaApp" />
       <module name="biblioteca" />
@@ -65,8 +64,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in biblioteca" />
         <item itemvalue="Application.BibliotecaApp" />
+        <item itemvalue="JUnit.All in biblioteca" />
       </list>
     </recent_temporary>
   </component>
@@ -100,21 +99,25 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="560" y="277" key="#Project_Structure/0.23.1920.1177@0.23.1920.1177" timestamp="1580493228266" />
-    <state width="1878" height="328" key="GridCell.Tab.0.bottom" timestamp="1580507627573">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1878" height="342" key="GridCell.Tab.0.bottom" timestamp="1580854550935">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
+    <state width="1878" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1580854550935" />
     <state width="1878" height="328" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1580507627573" />
-    <state width="1878" height="328" key="GridCell.Tab.0.center" timestamp="1580507627572">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1878" height="342" key="GridCell.Tab.0.center" timestamp="1580854550934">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
+    <state width="1878" height="342" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1580854550934" />
     <state width="1878" height="328" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1580507627572" />
-    <state width="1878" height="328" key="GridCell.Tab.0.left" timestamp="1580507627572">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1878" height="342" key="GridCell.Tab.0.left" timestamp="1580854550933">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
+    <state width="1878" height="342" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1580854550933" />
     <state width="1878" height="328" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1580507627572" />
-    <state width="1878" height="328" key="GridCell.Tab.0.right" timestamp="1580507627573">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1878" height="342" key="GridCell.Tab.0.right" timestamp="1580854550935">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
+    <state width="1878" height="342" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1580854550935" />
     <state width="1878" height="328" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1580507627573" />
     <state x="341" y="175" key="SettingsEditor" timestamp="1579286282931">
       <screen x="0" y="23" width="1680" height="1027" />
