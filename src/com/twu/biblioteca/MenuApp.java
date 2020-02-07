@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class MenuApp {
 
     private PrintStream printStream;
-    public static String [] options = new String[] {
+    public static final String [] options = new String[] {
             "1 - List Books"
     };
     MenuApp(PrintStream printStream){

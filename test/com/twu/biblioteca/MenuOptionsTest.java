@@ -18,7 +18,7 @@ public class MenuOptionsTest {
     private PrintStream printStream;
 
     @Before
-    public void initTestSetup(){
+    public void InitTestSetup(){
         printStream = mock(PrintStream.class);
     }
     @Test
@@ -30,7 +30,6 @@ public class MenuOptionsTest {
 
    @Test
     public void TestGetUserSelectedOption(){
-        PrintStream printStream = mock(PrintStream.class);
         menu = new MenuApp(printStream);
         InputStream userInput = new ByteArrayInputStream("1".getBytes());
         System.setIn(userInput);
